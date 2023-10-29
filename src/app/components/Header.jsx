@@ -21,6 +21,11 @@ export default function Header() {
         title: "Posts",
         link: "/posts",
       },
+
+      {
+        title: "Crud",
+        link: "/crud",
+      },
   ];
   return (
     <div className="flex py-[30px] gap-12">
